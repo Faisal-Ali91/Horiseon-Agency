@@ -14,3 +14,5 @@ The purpose of this project is to improve the provided code, both HTML and CSS, 
 
 * Github: https://github.com/Faisal-Ali91/Horiseon-Agency
 * Deployed: https://faisal-ali91.github.io/Horiseon-Agency/
+
+![website image](./assets/images/01-html-css-git-homework-demo.png)
